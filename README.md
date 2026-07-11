@@ -38,5 +38,9 @@ The user is able to perform all four CRUD operations. The user can create a new 
 ## Step 4: Update Database Entries
 <img width="1457" height="582" alt="Screenshot 2026-07-11 152007" src="https://github.com/user-attachments/assets/584de1c6-1aca-4db8-a2c2-c507c0865206" />
 
+## Step 5: Delete Database Entries
+<img width="1427" height="566" alt="Screenshot 2026-07-11 153554" src="https://github.com/user-attachments/assets/cc9e49a0-f805-4efe-be9b-71ff33e5d213" />
+
+
 
 
