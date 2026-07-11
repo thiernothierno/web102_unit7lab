@@ -22,3 +22,6 @@ The user is able to perform all four CRUD operations. The user can create a new 
 * A create form allows users to submit a new challenge
 * A challenge can be updated once it has been submitted
 * A challenge can be deleted once it has been submitted
+
+## Step 0: Explore the Starter Code
+<img width="1457" height="777" alt="Screenshot 2026-07-11 135113" src="https://github.com/user-attachments/assets/f92fc1d0-faf6-4010-80f9-0e14bf31b5d9" />
