@@ -29,5 +29,6 @@ The user is able to perform all four CRUD operations. The user can create a new 
 ## Step 1: Sign Up for Supabase
 <img width="1801" height="750" alt="Screenshot 2026-07-11 135302" src="https://github.com/user-attachments/assets/b2150228-16f6-4664-9ea0-ba518043d18a" />
 
-## Step 2: Set Up the Database
+## Step 4: Create Database Entry
+<img width="1817" height="386" alt="Screenshot 2026-07-11 145033" src="https://github.com/user-attachments/assets/975ea8eb-90d7-4c1b-b6d8-e134e70d464a" />
 
