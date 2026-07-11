@@ -41,6 +41,11 @@ The user is able to perform all four CRUD operations. The user can create a new 
 ## Step 5: Delete Database Entries
 <img width="1427" height="566" alt="Screenshot 2026-07-11 153554" src="https://github.com/user-attachments/assets/cc9e49a0-f805-4efe-be9b-71ff33e5d213" />
 
+## Stretch Features
+## Step 6: Save Bet Count to Database
+<img width="1453" height="591" alt="Screenshot 2026-07-11 160121" src="https://github.com/user-attachments/assets/49347f84-48d6-468e-ad31-4d1a7c58419f" />
+
+
 
 
 
