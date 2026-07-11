@@ -35,4 +35,8 @@ The user is able to perform all four CRUD operations. The user can create a new 
 ## Step 3: Read Database Entries
 <img width="1452" height="576" alt="Screenshot 2026-07-11 145340" src="https://github.com/user-attachments/assets/e2814128-654f-4a14-ba16-a485ae5814ea" />
 
+## Step 4: Update Database Entries
+<img width="1457" height="582" alt="Screenshot 2026-07-11 152007" src="https://github.com/user-attachments/assets/584de1c6-1aca-4db8-a2c2-c507c0865206" />
+
+
 
