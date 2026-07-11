@@ -13,7 +13,7 @@ const App = () => {
 
   const posts = [
       {'id':'1', 
-      'title': 'Cartwheel in Chelsea 🤸🏽‍♀️',
+      'title': 'Cartwheel in Chelsea 🤸🏽‍♀️',  
       'author':'Harvey Milian', 
       'description': descr},
       {'id':'2', 
