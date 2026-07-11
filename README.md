@@ -25,3 +25,9 @@ The user is able to perform all four CRUD operations. The user can create a new 
 
 ## Step 0: Explore the Starter Code
 <img width="1457" height="777" alt="Screenshot 2026-07-11 135113" src="https://github.com/user-attachments/assets/f92fc1d0-faf6-4010-80f9-0e14bf31b5d9" />
+
+## Step 1: Sign Up for Supabase
+<img width="1801" height="750" alt="Screenshot 2026-07-11 135302" src="https://github.com/user-attachments/assets/b2150228-16f6-4664-9ea0-ba518043d18a" />
+
+## Step 2: Set Up the Database
+
