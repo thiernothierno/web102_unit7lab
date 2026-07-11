@@ -18,7 +18,7 @@ In this lab, you will create a web application called Bet using React and Supaba
 ### Required Features
 The user is able to perform all four CRUD operations. The user can create a new challenge, read previous challenges, update a challenge, and delete a challenge.
 
-. All submitted challenges can be read on the homepage
-. A create form allows users to submit a new challenge
-. A challenge can be updated once it has been submitted
-. A challenge can be deleted once it has been submitted
+- All submitted challenges can be read on the homepage
+- A create form allows users to submit a new challenge
+- A challenge can be updated once it has been submitted
+- A challenge can be deleted once it has been submitted
