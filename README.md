@@ -4,8 +4,6 @@
 
 In this lab, you will create a web application called Bet using React and Supabase. Bet is a forum built for Gen Z thrill-seekers where users can post challenges for other users. Users can take on a challenge by clicking the “Bet” button.
 
-## Features
-
 ### Required Features
 
 The user is able to perform all four CRUD operations. The user can create a new challenge, read previous challenges, update a challenge, and delete a challenge.
@@ -21,21 +19,31 @@ The user is able to perform all four CRUD operations. The user can create a new 
 
 ## Step 1: Sign Up for Supabase
 
+This step consist of creating a Supabase account where the app's database will live.
+
 <img width="1801" height="750" alt="Screenshot 2026-07-11 135302" src="https://github.com/user-attachments/assets/b2150228-16f6-4664-9ea0-ba518043d18a" />
 
 ## Step 2: Create Database Entry
+
+In this step we create the supabase table that will stores all entries such as title, author, description and the count variable for every post made.
 
 <img width="1817" height="386" alt="Screenshot 2026-07-11 145033" src="https://github.com/user-attachments/assets/975ea8eb-90d7-4c1b-b6d8-e134e70d464a" />
 
 ## Step 3: Read Database Entries
 
+This step consist of linking our Bet app to the Supabase database.
+
 <img width="1452" height="576" alt="Screenshot 2026-07-11 145340" src="https://github.com/user-attachments/assets/e2814128-654f-4a14-ba16-a485ae5814ea" />
 
 ## Step 4: Update Database Entries
 
+After a post is created, we provid the user the ability to update his/her post.
+
 <img width="1457" height="582" alt="Screenshot 2026-07-11 152007" src="https://github.com/user-attachments/assets/584de1c6-1aca-4db8-a2c2-c507c0865206" />
 
 ## Step 5: Delete Database Entries
+
+This step consist of deleting a post created on the Supabase database.
 
 <img width="1427" height="566" alt="Screenshot 2026-07-11 153554" src="https://github.com/user-attachments/assets/cc9e49a0-f805-4efe-be9b-71ff33e5d213" />
 
